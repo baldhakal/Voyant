@@ -6,21 +6,25 @@
 <td><a href="http://www.maxkemman.nl/2016/11/a-republic-of-emails-what-are-the-contents/"><span style="font-weight: 400">A Republic of Emails: What are the contents?</span></a></td>
 <td><span style="font-weight: 400">November 24, 2016</span></td>
 <td><span style="font-weight: 400">Blog post, usage, word trends, links, contexts</span></td>
+<td><span style="font-weight: 400">This research looks at what the emails from the Hillary Clinton corpus are about. The researcher uses the data to analyse a) the raw text, b) normalised text, and c) entities in the text.</span></td>
 </tr>
 <tr>
 <td><a href="http://britishlibrary.typepad.co.uk/digital-scholarship/2013/05/on-metadata-and-cartoons.html">On metadata and cartoons</a></td>
 <td>May 16, 2013</td>
 <td>blog post, usage, screenshot, word trends</td>
+<td>In this piece of work, the author tries to track the cartoons and its relation to the politics and natural languages.</td>
 </tr>
 <tr>
 <td><a href="http://www.samplereality.com/2013/05/08/no-life-no-life-no-life-no-life-the-100000000000000-stanzas-of-house-of-leaves-of-grass/">No life no life no life no life: the 100,000,000,000,000 stanzas of House of Leaves of Grass</a></td>
 <td>May 8, 2013</td>
 <td>blog post, usage, mention</td>
+<td>Mark Z. Danielewski’s House of Leaves and Walt Whitman’s Leaves of Grass are remixed with each other to find concerns, multitudes and contradictions.</td>
 </tr>
 <tr>
 <td><a href="http://postapocalypticcities.wordpress.com/2013/05/02/voyanttools/">Post-Apocalyptic Cities: Voyant Tools</a></td>
 <td>May 2, 2013</td>
 <td>blog post, usage, screenshot, cirrus, word trends</td>
+<td>With around 1500 entries on apocalyptic fiction, the author tries to find different aspects (word cloud, word trends, and so on) using Voyant Tools</td>
 </tr>
 <tr>
 <td><a href="http://modernist-magazines.org/?q=taxonomy/term/782">Magazine Modernsim: Voyant Tools</a></td>
